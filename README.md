@@ -1,3 +1,3 @@
-# CursoEmVideo-HTML5
- Repositório referente ao desenvolvimento do site do curso de HTML5 do Curso e Vídeo.
- Site: Google Glass.
+# GoogleGlass
+ Repositório referente ao desenvolvimento do site Google Glass.
+ Curso de HTML5 do Curso e Vídeo.
